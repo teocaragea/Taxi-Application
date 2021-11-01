@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1608376114 source:c:\users\costangy\desktop\teo projects\proiectpoo\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<graphics.h>
+	<time.h>
+	<map>
+	<list>
+	<string>
+	<iterator>
+	<set>
+	<windows.h>
+
+1604153266 source:c:\users\costangy\desktop\proiectpoo\main.cpp
+	<iostream>
+	<iomanip>
+	<queue>
+	<vector>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<graphics.h>
+	<time.h>
+	<map>
+
+1607870102 source:f:\proiectpoo\main.cpp
+	<iostream>
+	<iomanip>
+	<queue>
+	<vector>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<graphics.h>
+	<time.h>
+	<map>
+	<list>
+	<string>
+	<iterator>
+	<utility>
+
+1608376114 source:c:\users\costangy\desktop\teo projects\proiectpooetapa3\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<graphics.h>
+	<time.h>
+	<map>
+	<list>
+	<string>
+	<iterator>
+	<set>
+	<windows.h>
+
